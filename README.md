@@ -1,6 +1,8 @@
 # What this project does
 When working with autonomous construction machines it is essential to intuitively and quickly give commands adapt their work. This can be done most directly through the use of a Mixed Reality headset, which overlays sensor readings of the machine and presents an editing interface to the user.
 
+*DEMO of the project https://www.youtube.com/watch?v=ATL48fghZWQ*
+
 
 # Implemented functions
 From the [M545 excavator](https://rsl.ethz.ch/robots-media/heap.html) we can obtain the Machines position, as well as a Grid Map approximating the terrain seen by its LIDAR sensor. This is then visualized on the Hololens, where the virtual scene is aligned with the physcal world throught the use of QR codes in combination with Microsofts World Locking Tools. 

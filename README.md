@@ -1,7 +1,7 @@
 # What this project does
 When working with autonomous construction machines it is essential to intuitively and quickly give commands adapt their work. This can be done most directly through the use of a Mixed Reality headset, which overlays sensor readings of the machine and presents an editing interface to the user.
 
-*DEMO of the project https://www.youtube.com/watch?v=ATL48fghZWQ*
+**DEMO of the project -> https://www.youtube.com/watch?v=ATL48fghZWQ**
 
 
 # Implemented functions

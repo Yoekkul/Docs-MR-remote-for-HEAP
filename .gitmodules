@@ -1,0 +1,6 @@
+[submodule "Unity-ROS-mediator"]
+	path = Unity-ROS-mediator
+	url = git@github.com:Yoekkul/Unity-ROS-mediator.git
+[submodule "HoloPlanner-Unity"]
+	path = HoloPlanner-Unity
+	url = git@github.com:Yoekkul/HoloPlanner-Unity.git

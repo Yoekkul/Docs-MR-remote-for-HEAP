@@ -3,7 +3,7 @@ When working with autonomous construction machines it is essential to intuitivel
 
 **DEMO of the project -> https://www.youtube.com/watch?v=ATL48fghZWQ**
 
-The code of the project is save in the following repositories:
+The code of the project can be found in the following repositories:
 * [ROS Server](https://github.com/Yoekkul/Unity-ROS-mediator)
 * [Unity Client](https://github.com/Yoekkul/HoloPlanner-Unity)
 

@@ -22,6 +22,8 @@ An user can also set "terrain editing nodes" through which the terrain can be ed
 
 _Currently no Grid Map message is generated and sent back to the machine_
 
+<img src="img/ConeEditingBasics.gif"  title="Editing nodes being moved" width="500"/>
+
 An additional feature is the ability to create and move of two markers. These are uploaded to the ROS server and can be used as target position for Inverse Kinematics based movement of the arm of the machine.
 
 

@@ -3,6 +3,10 @@ When working with autonomous construction machines it is essential to intuitivel
 
 **DEMO of the project -> https://www.youtube.com/watch?v=ATL48fghZWQ**
 
+The code of the project is save in the following repositories:
+* [ROS Server](https://github.com/Yoekkul/Unity-ROS-mediator)
+* [Unity Client](https://github.com/Yoekkul/HoloPlanner-Unity)
+
 
 # Implemented functions
 From the [M545 excavator](https://rsl.ethz.ch/robots-media/heap.html) we can obtain the Machines position, as well as a Grid Map approximating the terrain seen by its LIDAR sensor. This is then visualized on the Hololens, where the virtual scene is aligned with the physcal world throught the use of QR codes in combination with Microsofts World Locking Tools. 

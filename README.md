@@ -32,9 +32,7 @@ The code is subdivided into two main components:
 * Client: Running on the Hololens, written in C# on the Unity Game Engine 
 * Server: ROS node sending sensor data to the Hololens as well as relaying instructions from the Hololens back to the excavator
 
-## Unity Client
-
-## ROS Server
-
-# Future work
-
+# Most important TODOs
+1. 'Close the loop': Have the machine actually respond to the instructions given through the Hololens, either by performing IK to the given markers, or excavating based on a returned Grid_Map
+2. Improve the localization of the machine from the Hololens, either by working on the code which recognizes the QR codes, such that it is able to adjust its position estimate not only at the beginning, or thorugh the use of Azure Spatial anchors.
+3. Fix and Improve the terrai nediting funcitons, to allow for more control.
